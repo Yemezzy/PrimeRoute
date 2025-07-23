@@ -1,0 +1,55 @@
+.jojo{
+  background-image: url(/public/img/h1_hero.jpg);
+  background-position: center;
+}
+.sec1{
+background-image: url(/public/img/service-1.jpg);
+background-size: 100%;
+}
+.sec2{
+background-image: url(/public/img/service-2.jpg);
+background-size: 100%;
+}
+.sec3{
+background-image: url(/public/img/service-3.jpg);
+background-size: 100%;
+}
+.sec4{
+background-image: url(/public/img/service-4.jpg);
+background-size: 100%;
+}
+.sec4{
+background-image: url(/public/img/service-4.jpg);
+background-size: 100%;
+}
+.sec5{
+background-image: url(/public/img/service-5.jpg);
+background-size: 100%;
+}
+.sec6{
+background-image: url(/public/img/service-6.jpg);
+background-size: 100%;
+}
+
+.mmm{
+  background-image: url(/public/img/8.jpg);
+  background-color: black;
+  position: relative;
+  padding: 100px 0px 100px;
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.fff{
+  position: static;
+  max-width: 1200px;
+  padding: 0px 15px;
+  margin: 0 auto;
+}
+
+.lolo{
+  background-image: url(/public/img/4.png);
+}
+.bbb{
+  background-image: url(/public/img/4.png);
+}
