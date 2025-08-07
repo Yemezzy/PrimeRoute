@@ -45,7 +45,7 @@ const Navbar = () => {
             <section className='flex justify-center gap-'> 
                 <div className='flex gap-1 md:text-base text-xs items-center pr-3 md:pr-5'>
                 <HiOutlineMail className='text-base'/>
-                    <a href="mailto:info@globalshipwave.com">info@swiftexpress.pro</a>
+                    <a href="mailto:info@globalshipwave.com">info@primeroute.pro</a>
                     </div>
 
             </section>
@@ -72,7 +72,7 @@ const Navbar = () => {
         <div className='text- font-semibold flex justify-between items-center px-3 md:px-10 py-2'>
             <div className='flex-col flex items-center'>
             <img src="./img/Asset 1.png" alt="" className='md:w-20 w-[50px]'/>
-            <p className='font-extrabold md:block  md:text-xs text-[5px]'>SwiftExpress</p>
+            <p className='font-extrabold md:block  md:text-xs text-[5px]'>PrimeRoute</p>
             </div>
 
             <ul className='md:flex hidden justify-between md:w-[30%]'>

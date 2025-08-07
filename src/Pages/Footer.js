@@ -11,7 +11,7 @@ const Footer = () => {
         <section>
             <p className='md:text-2xl text-xl text-[#c11425] font-bold mb-2 md:mb-5 mt-5 md:mt-0'>Address</p>
             <p className='flex gap-2'><FaLocationCrosshairs/>34 isla Drive, Lubbesthorpe, Leicester, England, LE19 4BN</p>
-            <p className='flex items-center gap-2 mt-3'><HiOutlineMail/>info@swiftexpress.pro</p>
+            <p className='flex items-center gap-2 mt-3'><HiOutlineMail/>info@primeroute.pro</p>
         </section>
         <section>
         <p className='md:text-2xl text-xl text-[#c11425] font-bold mb-2 md:mb-5 mt-5 md:mt-0'>Services</p>
